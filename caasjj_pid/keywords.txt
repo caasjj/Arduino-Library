@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For PID Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PID	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Configure	        KEYWORD2
+SetLoopConstants	KEYWORD2
+UpdateLoop	        KEYWORD2
+SetOutputLimiits	KEYWORD2
+Enable	            KEYWORD2
+EnableDataUpload	KEYWORD2
+GetKp	            KEYWORD2
+GetKi	            KEYWORD2
+GetKd	            KEYWORD2
+GetMode	            KEYWORD2
+GetDirection	    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ENABLED			LITERAL1
+DISABLED	    LITERAL1

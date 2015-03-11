@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For PID Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sampler	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+start	        KEYWORD2
+stop 			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TIMER			LITERAL1
+TIMER_VECTOR	LITERAL1
+timer_setup		LITERAL1
+timer_start	    LITERAL1
+timer_stop		LITERAL1
