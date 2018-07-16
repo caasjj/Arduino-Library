@@ -12,11 +12,11 @@ Observable	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-Configure	        KEYWORD2
+Configure	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-ENABLED			LITERAL1
-DISABLED	    LITERAL1
+ENABLED	LITERAL1
+DISABLED	LITERAL1
